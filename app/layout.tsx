@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "ru_RU",
-    url: "https://v0-ogt-7woziqaw081-f2mscgee2-blackpawn-pts-projects.vercel.app",
+    url: "https://dmitryzhidkov.netlify.app",
     title: "Dmitry Zhidkov — информационные системы и Python",
     description: "Портфолио специалиста по информационным системам",
     siteName: "Dmitry Zhidkov Portfolio",
